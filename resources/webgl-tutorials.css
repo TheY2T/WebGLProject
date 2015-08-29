@@ -1,0 +1,30 @@
+/* Licensed under a BSD license. See ../license.html for license */
+
+html, body {
+	background-color: #000;
+	font-family: Sans-Serif;
+	color: #fff;
+}
+
+canvas {
+	background-color: #fff;
+	width:100%;
+	height:100%;
+	margin: 0 auto;
+}
+
+#uiTitleContainer {
+	margin-left: 2.5%;
+}
+
+#uiCanvasContainer {
+	width:95%;
+	height:95%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#uiContainer {
+	z-index: 3;
+}
+
